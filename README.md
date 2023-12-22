@@ -49,3 +49,5 @@ Aryna Paula
 Paula Ons
 
 Output:
+
+Simona Iga Anett Maria Paula Ons Aryna
